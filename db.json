@@ -1,6 +1,97 @@
 {
   "movies": [
+    {
+      "id": 101,
+      "title": "Entiran 2.0",
+      "posterPath": "../images/enthiran2-0.jpeg",
+      "certificate": "U/A",
+      "Script_Language": "Tamil"
+    },
+    {
+      "id": 102,
+      "title": "Avatar",
+      "posterPath": "../images/avatar.jpeg",
+      "certificate": "U/A",
+      "Script_Language": "English"
+    },
+    {
+      "id": 103,
+      "title": "Viswasam",
+      "posterPath": "../images/visvasam.jpeg",
+      "certificate": "U/A",
+      "Script_Language": "Tamil"
+    },
+    {
+      "id": 104,
+      "title": "Krish3",
+      "posterPath": "../images/krish3.jpeg",
+      "certificate": "U/A",
+      "Script_Language": "Hindhi"
+    },
+    {
+      "id": 105,
+      "title": "Petta",
+      "posterPath": "../images/petta.jpeg",
+      "certificate": "U/A",
+      "Script_Language": "Tamil"
+    },
+    {
+      "id": 106,
+      "title": "Popeye",
+      "posterPath": "../images/popeye.jpeg",
+      "certificate": "U/A",
+      "Script_Language": "English"
+    },
+    {
+      "id": 107,
+      "title": "Zero",
+      "posterPath": "../images/zero.jpeg",
+      "certificate": "U/A",
+      "Script_Language": "Hindhi"
+    },
+    {
+      "id": 108,
+      "title": "Sarkar",
+      "posterPath": "../images/sarkar.jpeg",
+      "certificate": "U/A",
+      "Script_Language": "Tamil"
+    },
+    {
+      "id": 109,
+      "title": "Student Of The Year",
+      "posterPath": "../images/StudentOfTheYear.jpeg",
+      "certificate": "U/A",
+      "Script_Language": "hindhi"
+    },
+    {
+      "id": 110,
+      "title": "Hunter",
+      "posterPath": "../images/hunter.jpeg",
+      "certificate": "U/A",
+      "Script_Language": "english"
+    }
   ],
   "favourites": [
+    {
+      "id": 101,
+      "title": "Entiran 2.0",
+      "posterPath": "../images/enthiran2-0.jpeg",
+      "certificate": "U/A",
+      "Script_Language": "Tamil"
+    },
+    {
+      "id": 103,
+      "title": "Viswasam",
+      "posterPath": "../images/visvasam.jpeg",
+      "certificate": "U/A",
+      "Script_Language": "Tamil"
+    },
+    {
+      "id": 105,
+      "title": "Petta",
+      "posterPath": "../images/petta.jpeg",
+      "certificate": "U/A",
+      "Script_Language": "Tamil"
+    }
   ]
 }
